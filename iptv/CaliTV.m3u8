@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2894264,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w837178009.m3u8
