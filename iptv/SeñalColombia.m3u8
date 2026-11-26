@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",FORCED=NO,AUTOSELECT=YES,URI="https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/subtitlelist_leng_b500000.m3u8?TecnoPlaylist",LANGUAGE="eng"
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,SUBTITLES="subs"
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
